@@ -1,0 +1,65 @@
+intents:
+- saludo
+- despedida
+- destinos_disponibles
+- costos_viaje
+- metodos_pago
+- canales_comunicacion
+- bot_challenge
+responses:
+  utter_canales_comunicacion:
+  - text: 'Puedes contactarnos a través de varias agencias:
+
+      Viajes Express - Teléfono: +123456789, Email: info@viajesexpress.com
+
+      Turismo Global - Teléfono: +987654321, Email: contacto@turismoglobal.com
+
+      Mundo Aventuras - Teléfono: +112233445, Email: reservas@mundoaventuras.com'
+  utter_costos_viaje:
+  - text: El costo para viajar a España está entre $800 - $2000. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Estados Unidos está entre $700 - $2500. ¿Te gustaría
+      más detalles?
+  - text: El costo para viajar a México está entre $500 - $1500. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Francia está entre $900 - $2300. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Italia está entre $850 - $2200. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Japón está entre $1000 - $3000. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Brasil está entre $600 - $1800. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Argentina está entre $700 - $1900. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Canadá está entre $750 - $2100. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Alemania está entre $900 - $2400. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Tailandia está entre $650 - $2000. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Australia está entre $1100 - $3200. ¿Te gustaría
+      más detalles?
+  - text: El costo para viajar a Egipto está entre $600 - $1700. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a Sudáfrica está entre $800 - $2100. ¿Te gustaría más
+      detalles?
+  - text: El costo para viajar a India está entre $500 - $1600. ¿Te gustaría más detalles?
+  utter_despedida:
+  - text: ¡Gracias por visitarnos! Esperamos verte pronto.
+  utter_destinos_disponibles:
+  - text: 'Ofrecemos viajes a varios países: España, Estados Unidos, México, Francia,
+      Italia, Japón, Brasil, Argentina, Canadá, Alemania, Tailandia, Australia, Egipto,
+      Sudáfrica, India. ¿Te interesa algún destino en particular?'
+  utter_iamabot:
+  - text: Soy un asistente virtual de la agencia de viajes. Estoy aquí para ayudarte
+      a planificar tu próximo destino.
+  utter_metodos_pago:
+  - text: Aceptamos pagos con tarjeta de crédito, PayPal, transferencias bancarias
+      y pagos en efectivo en nuestras oficinas.
+  utter_saludo:
+  - text: ¡Hola! Bienvenido a nuestra agencia de viajes. ¿En qué puedo ayudarte?
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 60
+version: '3.1'

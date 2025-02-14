@@ -1,0 +1,17 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCW/tjYWAAX6G/Y=": "utter_saludo",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCW/loAhpSUlqUXxULU4zYgFAOmENeo=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCW/loAhpSUlqUXxULVkmkHAIbmpJfkp+cXxBYnpQKNiAei5Uqg=": "utter_metodos_pago",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCW/loAhpSUlqUXxULVkmkHAIbmpJfkp+cXxBYnpRDoHRQcB82IBkXZxjg==": "action_listen",
+    "eJydjkEKwCAMBL/iA/oCv1JKCGkOgsZikl7Ev1eo90JvOzAMu/exhX41vgHJUpUY+jtAsHAMC3JSY5muK7fpJJloMShmP+v4iLgZN1juz8bHEULBzApUi0sipCmPcTyJelXV": "utter_canales_comunicacion",
+    "eJydjkEKwCAMBL/iA/oCv1KKhDQHQWMxsRfx7xXqsaD0tguzw+61baZemW4HqD6xNfUNjiGSNaMEL0rc2SKUO+O5V7VGIJQztYmkqFJ2g/3pmBxBYAgkDlMs7BGww2u3PpeL/uMBsXV7FQ==": "action_listen",
+    "eJydjkEKwCAMBL/iA/oCv1JKsDWHgE3ExF7Ev1eod6G3HRiG3VvfXMsFHwiXkbB37RvA4UbvJiRSQx5uVSzDIR5o3mlINUpfRKoZFpjuz8biSEQ1YlGIpFmYzoTa+/ECjPNWCw==": "utter_destinos_disponibles",
+    "eJydjkEKwCAMBL/iA/oCv1KK2JpDwCZiYi/i3yvUY8HS2y7MDrvWtpiaMlzOH4pM1tQnOPInWDNKRFGgzhaB3BmkXtUa8bEEbhNJUYXsBvvTMTkSQBSJxQWUxIR7BPl263X50b/d2CR7tw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJbW4IDUlMyWxtjYWAFsRHRE=": "utter_despedida",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJbW4IDUlMyWxloA5pSUlqUXxCOX4TIoFANnTOTs=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCW/loAhpSUlqUXxULVkmkHAIcn5xSX5xfFlmYlZqbW1sQDpOVKw": "utter_costos_viaje",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCW/loAhpSUlqUXxULVkmkHAIcn5xSX5xfFlmYlZqcQ5B0UHAfNiAZZmcaY=": "action_listen"
+  }
+}

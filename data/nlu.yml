@@ -1,0 +1,132 @@
+nlu:
+- examples: '- Hola
+
+    - Buenos días
+
+    - Buenas tardes
+
+    - Qué tal
+
+    - Hola, quisiera información
+
+    '
+  intent: saludo
+- examples: '- Adiós
+
+    - Hasta luego
+
+    - Nos vemos
+
+    - Gracias, eso es todo
+
+    - Que tengas un buen día
+
+    '
+  intent: despedida
+- examples: '- ¿A qué países puedo viajar?
+
+    - ¿Cuáles son los destinos disponibles?
+
+    - Me gustaría saber qué países tienen disponibles
+
+    - ¿Qué lugares ofrecen?
+
+
+    - Quiero viajar a España, ¿qué opciones tienen?
+
+    - Quiero viajar a Estados Unidos, ¿qué opciones tienen?
+
+    - Quiero viajar a México, ¿qué opciones tienen?
+
+    - Quiero viajar a Francia, ¿qué opciones tienen?
+
+    - Quiero viajar a Italia, ¿qué opciones tienen?
+
+    - Quiero viajar a Japón, ¿qué opciones tienen?
+
+    - Quiero viajar a Brasil, ¿qué opciones tienen?
+
+    - Quiero viajar a Argentina, ¿qué opciones tienen?
+
+    - Quiero viajar a Canadá, ¿qué opciones tienen?
+
+    - Quiero viajar a Alemania, ¿qué opciones tienen?
+
+    - Quiero viajar a Tailandia, ¿qué opciones tienen?
+
+    - Quiero viajar a Australia, ¿qué opciones tienen?
+
+    - Quiero viajar a Egipto, ¿qué opciones tienen?
+
+    - Quiero viajar a Sudáfrica, ¿qué opciones tienen?
+
+    - Quiero viajar a India, ¿qué opciones tienen?'
+  intent: destinos_disponibles
+- examples: '- ¿Cuánto cuesta viajar a España?
+
+    - ¿Cuáles son los precios para viajar a México?
+
+    - ¿Tienen costos para viajar a Estados Unidos?
+
+    - Quisiera saber los precios de los viajes
+
+
+    - ¿Cuánto cuesta viajar a España?
+
+    - ¿Cuánto cuesta viajar a Estados Unidos?
+
+    - ¿Cuánto cuesta viajar a México?
+
+    - ¿Cuánto cuesta viajar a Francia?
+
+    - ¿Cuánto cuesta viajar a Italia?
+
+    - ¿Cuánto cuesta viajar a Japón?
+
+    - ¿Cuánto cuesta viajar a Brasil?
+
+    - ¿Cuánto cuesta viajar a Argentina?
+
+    - ¿Cuánto cuesta viajar a Canadá?
+
+    - ¿Cuánto cuesta viajar a Alemania?
+
+    - ¿Cuánto cuesta viajar a Tailandia?
+
+    - ¿Cuánto cuesta viajar a Australia?
+
+    - ¿Cuánto cuesta viajar a Egipto?
+
+    - ¿Cuánto cuesta viajar a Sudáfrica?
+
+    - ¿Cuánto cuesta viajar a India?'
+  intent: costos_viaje
+- examples: '- ¿Qué métodos de pago aceptan?
+
+    - ¿Puedo pagar con tarjeta de crédito?
+
+    - ¿Aceptan PayPal?
+
+    - ¿Se puede pagar en efectivo?
+
+    '
+  intent: metodos_pago
+- examples: '- ¿Cómo puedo contactarlos?
+
+    - ¿Tienen WhatsApp?
+
+    - ¿Me pueden dar un número de contacto?
+
+    - ¿Cuál es su correo electrónico?
+
+    '
+  intent: canales_comunicacion
+- examples: '- ¿Eres un bot?
+
+    - ¿Estoy hablando con una persona o con un bot?
+
+    - ¿Quién eres?
+
+    '
+  intent: bot_challenge
+version: '3.1'

@@ -1,0 +1,26 @@
+rules:
+- rule: Responder cuando el usuario dice adiós
+  steps:
+  - intent: despedida
+  - action: utter_despedida
+- rule: Responder cuando el usuario pregunta por destinos
+  steps:
+  - intent: destinos_disponibles
+  - action: utter_destinos_disponibles
+- rule: Responder cuando el usuario pregunta por costos de viaje
+  steps:
+  - intent: costos_viaje
+  - action: utter_costos_viaje
+- rule: Responder cuando el usuario pregunta por métodos de pago
+  steps:
+  - intent: metodos_pago
+  - action: utter_metodos_pago
+- rule: Responder cuando el usuario pregunta por canales de comunicación
+  steps:
+  - intent: canales_comunicacion
+  - action: utter_canales_comunicacion
+- rule: Responder cuando el usuario pregunta si es un bot
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+version: '3.1'

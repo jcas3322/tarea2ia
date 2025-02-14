@@ -1,0 +1,30 @@
+stories:
+- steps:
+  - intent: saludo
+  - action: utter_saludo
+  - intent: destinos_disponibles
+  - action: utter_destinos_disponibles
+  story: consulta de destinos
+- steps:
+  - intent: saludo
+  - action: utter_saludo
+  - intent: costos_viaje
+  - action: utter_costos_viaje
+  story: consulta de costos
+- steps:
+  - intent: saludo
+  - action: utter_saludo
+  - intent: metodos_pago
+  - action: utter_metodos_pago
+  story: consulta de métodos de pago
+- steps:
+  - intent: saludo
+  - action: utter_saludo
+  - intent: canales_comunicacion
+  - action: utter_canales_comunicacion
+  story: consulta de canales de comunicación
+- steps:
+  - intent: despedida
+  - action: utter_despedida
+  story: despedida
+version: '3.1'
